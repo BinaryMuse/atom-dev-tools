@@ -1,0 +1,15 @@
+{
+  "name": "atom-dev-tools",
+  "main": "./lib/atom-dev-tools",
+  "version": "0.0.1",
+  "description": "Just some common things I do in the console, etc. when working on Atom",
+  "keywords": [],
+  "repository": "https://github.com/BinaryMuse/atom-dev-tools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "rx": "^4.1.0"
+  }
+}
